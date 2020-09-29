@@ -1,0 +1,111 @@
+body{
+    height: 1000px;
+    font-family: Classic Round;
+    background-color: black;
+}
+.dropdown-menu{
+    background-color: gold;
+}
+.dropdown-item:hover{
+    color: white;
+    background-color: black;
+}
+.jumbotron{
+    background: url(../img/background.png);
+    padding-top: 200px;
+}
+.display-4{
+    font-size: 5.125rem;
+    color: white;
+    text-align: center;
+}
+.display-3{
+    font-size: 3.125rem;
+    color: white;
+    text-align: center;
+}
+.lead{
+    color: white;
+    text-align: center;
+}
+.email{
+    text-align: center;
+}
+.email a{
+    text-decoration: none;
+}
+.jumbotron #email{
+    -webkit-box-align: center;
+    width: 400px;
+}
+.btn-primary{
+    padding: .35rem .35rem;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    box-shadow:1px 1px 8px white;
+    border: gold;
+}
+.card-title{
+    font-weight: bold;
+}
+.plan-list{
+    list-style: none;
+    padding: 0;
+}
+aside{
+    padding-top: 10%;
+}
+.col-4{
+    padding-top: 2%;
+    text-align: center;
+    padding-bottom: 10%;
+    color: white;
+}
+
+.movie{
+    width: 90%;
+}
+
+
+footer{
+    background-color: rgb(40, 136, 226);
+    margin: auto;
+    clear: both;
+}
+footer h1{
+    float: right;
+    text-shadow: 1px 2px 2px white;
+    margin-right: 20px;
+}
+footer ul{
+    float: left;
+    list-style: none;
+    padding-left: 100px;
+}
+footer ul li{
+    text-decoration: none;
+}
+
+
+
+.fa{
+    margin: 20px;
+    padding: 5px;
+    width: 40px;
+    text-decoration: none;
+}
+.fa:hover {
+    color: red;
+  }
+
+  .fa-facebook {
+    color: white;
+  }
+  .fa-twitter {
+    color: white;
+  }
+  .fa-instagram{
+      color: white;
+  }
